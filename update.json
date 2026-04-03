@@ -1,6 +1,4 @@
 {
-  "latest": 1.0,
-  "latest_text": "1.0",
-  "description": "Первый стабильный релиз!",
-  "update_url": "https://raw.githubusercontent.com/AndreySivokozov/AdminScript/main/AdminScript.luac"
+  "current_version": "1.0",
+  "update_url": "https://raw.githubusercontent.com/AndreySivokozov/AdminScript/refs/heads/py/AdminScript.luac"
 }
